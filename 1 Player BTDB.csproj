@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+	  <!-- Disable "BinaryFormatter is obsolete" warnings for entire project -->
+	  <NoWarn>$(NoWarn);SYSLIB0011</NoWarn>
+    <RootNamespace>_1_Player_BTDB</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+	<Import Project="..\btd6.targets" />
+	<ItemGroup>
+	  <None Remove="bloons.bundle" />
+	  <None Remove="icon.png" />
+	</ItemGroup>
+
+</Project>

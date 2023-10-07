@@ -1,0 +1,12 @@
+P:\btd6 mod\1 Player BTDB\1 Player BTDB\bin\Debug\net6.0\1 Player BTDB.deps.json
+P:\btd6 mod\1 Player BTDB\1 Player BTDB\bin\Debug\net6.0\1 Player BTDB.dll
+P:\btd6 mod\1 Player BTDB\1 Player BTDB\bin\Debug\net6.0\ref\1 Player BTDB.dll
+P:\btd6 mod\1 Player BTDB\1 Player BTDB\bin\Debug\net6.0\1 Player BTDB.pdb
+P:\btd6 mod\1 Player BTDB\1 Player BTDB\obj\Debug\net6.0\1 Player BTDB.csproj.AssemblyReference.cache
+P:\btd6 mod\1 Player BTDB\1 Player BTDB\obj\Debug\net6.0\1 Player BTDB.GeneratedMSBuildEditorConfig.editorconfig
+P:\btd6 mod\1 Player BTDB\1 Player BTDB\obj\Debug\net6.0\1 Player BTDB.AssemblyInfoInputs.cache
+P:\btd6 mod\1 Player BTDB\1 Player BTDB\obj\Debug\net6.0\1 Player BTDB.AssemblyInfo.cs
+P:\btd6 mod\1 Player BTDB\1 Player BTDB\obj\Debug\net6.0\1 Player BTDB.csproj.CoreCompileInputs.cache
+P:\btd6 mod\1 Player BTDB\1 Player BTDB\obj\Debug\net6.0\1 Player BTDB.dll
+P:\btd6 mod\1 Player BTDB\1 Player BTDB\obj\Debug\net6.0\ref\1 Player BTDB.dll
+P:\btd6 mod\1 Player BTDB\1 Player BTDB\obj\Debug\net6.0\1 Player BTDB.pdb
