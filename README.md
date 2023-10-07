@@ -6,9 +6,9 @@
 <h1 align="center">BTD6Rogue</h1>
 
 This mod adds:
-Sending Bloons
-Eco
-Saving
+Sending Bloons,
+Eco,
+and Saving
 
 DM on Discord for balance changes or suggestions: @000diggity000
 
