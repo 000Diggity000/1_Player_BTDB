@@ -9,8 +9,12 @@ namespace _1_Player_BTDB
     public static class ModHelperData
     {
         public const string Name = "1 Player BTDB";
-        public const string Description = "This mod adds: \n Sending Bloons\nEco \n Saving \n
-            \n DM on Discord for balance changes: @000diggity000.";
+        public const string Description = "This mod adds:\n" + 
+            "Sending Bloons\n" + 
+            "Eco\n" + 
+            "Saving\n" + 
+            "\n" + 
+            "DM on Discord for balance changes or suggestions: @000diggity000.";
         public const string Version = "1.0.0";
         public const string WorksOnVersion = "38";
         public const string Icon = "icon.png";
