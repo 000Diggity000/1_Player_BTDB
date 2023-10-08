@@ -1,4 +1,4 @@
-<a href="https://github.com/mend-dev/BTD6Rogue/releases/latest/download/BTD6Rogue.dll">
+<a href="https://github.com/000Diggity000/1_Player_BTDB/releases/download/btd6/1.Player.BTDB.dll">
     <img align="left" alt="Icon" height="90" src="icon.png">
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">
 </a>
