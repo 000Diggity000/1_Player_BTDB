@@ -3,7 +3,7 @@
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">
 </a>
 
-<h1 align="center">BTD6Rogue</h1>
+<h1 align="center">1 Player BTDB</h1>
 
 This mod adds:
 Sending Bloons,
